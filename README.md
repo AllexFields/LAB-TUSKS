@@ -97,4 +97,10 @@ This repository is part of my Python learning journey as I continue exploring:
 
 # 👨‍💻 Author
 
-Shivam Thakur
+**Shivam Thakur**  
+Aspiring Data Analyst | Python Learner | Exploring Data Analytics & AI
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/shivam-thakur-a97680335
+- 📧 Email: dataanalyst.shivamthakur@gmail.com
